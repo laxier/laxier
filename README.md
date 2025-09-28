@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kirill Timofeev
 
-🎓 2nd-year student at Financial University under the Government of the Russian Federation (Applied Mathematics & Informatics, track: Applied Machine Learning).
+🎓 3nd-year student at Financial University under the Government of the Russian Federation (Applied Mathematics & Informatics, track: Applied Machine Learning).
 💻 Passionate about **Data Analysis, Machine Learning, Backend Development**.
 🔍 Looking for opportunities to grow as a **Python/ML Engineer**.
 
@@ -29,5 +29,5 @@
 ## 🌍 Languages
 
 * Russian — Native
-* English — C1
+* English — B2
 * Chinese — HSK4 (B1–B2)
