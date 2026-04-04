@@ -1,33 +1,26 @@
-# 👋 Hi, I’m Kirill Timofeev
+# Hi, I’m Kirill Timofeev
 
-🎓 3nd-year student at Financial University under the Government of the Russian Federation (Applied Mathematics & Informatics, track: Applied Machine Learning).
-💻 Passionate about **Data Analysis, Machine Learning, Backend Development**.
-🔍 Looking for opportunities to grow as a **Python/ML Engineer**.
+3rd-year Applied Mathematics & Informatics student at Financial University.  
+Interested in Machine Learning, Data Analysis, NLP, and ML backend development.
 
+## Tech Stack
+- Python, SQL, Pandas, NumPy
+- Scikit-learn, PyTorch, PyTorch Lightning
+- OpenCV, Ultralytics YOLO
+- Hugging Face Transformers, NLP, RAG
+- PySpark, PostgreSQL
+- FastAPI, Docker, Git, W&B, Jupyter Notebook
 
-## ⚡ Tech Stack
+## Currently Learning
+- RAG and NLP pipelines
+- Embeddings and retrieval systems
+- Production ML systems
 
-* **Backend & API:** Django, Django REST Framework, Flask, Postman
-* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
-* **Databases:** MySQL, SQLite, MongoDB, Neo4j, SQLAlchemy
-* **Data Science & ML:** NumPy, Pandas, Scikit-learn, SciPy, PyTorch, TensorFlow
-* **Languages & Tools:** Python, C++, C#, Qt, Docker, Git, Arduino
+## Achievements
+- Zhongnan University Summer School (2025): applied statistics and econometrics
+- Conference “System Analysis in Economics – 2024”: research presentation on flu morbidity factors
 
-
-## 📚 Currently Learning
-
-* **Web:** React, Vue.js, TypeScript, FastAPI, GraphQL
-* **AI/ML:** OpenCV, Keras, Deep Learning, Computer Vision
-
-
-## 🏆 Achievements
-
-* 🎓 **Summer School, Zhongnan University (China, 2025):** Regression & correlation analysis of macroeconomic indicators, hypothesis testing, model stability.
-* 🎤 **Conference “System Analysis in Economics – 2024” (Moscow):** Presented research *“Factors influencing flu morbidity”*.
-
-
-## 🌍 Languages
-
-* Russian — Native
-* English — B2
-* Chinese — HSK4 (B1–B2)
+## Languages
+- Russian — Native
+- English — B2
+- Chinese — HSK 4
