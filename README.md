@@ -4,11 +4,10 @@ ML-инженер / Data Scientist. Студент 4 курса Финансов
 Занимаюсь машинным обучением, NLP и LLM-агентами, разрабатываю ML-бэкенд.
 
 ## Портфолио
-https://laxier.github.io/nutrition-tracker/
-<br>
-https://laxier.github.io/hanyu/
-<br>
-https://laxier.github.io/zimutai/
+- **[Smart Nutrition Tracker](https://laxier.github.io/nutrition-tracker/)** — трекер питания, лекарств и анализов с ассистентом на Claude: Telegram-бот, iOS-приложение, бэкенд на FastAPI
+- **[汉语中心](https://laxier.github.io/hanyu/)** — платформа для изучения китайского: колоды, интервальное повторение и MCP-сервер, через который Claude проводит занятия по колодам ученика
+- **[字幕台](https://laxier.github.io/zimutai/)** — плеер для изучения китайского по видео: субтитры по словам, словарь по клику и отправка слов в колоду
+
 ## Стек
 - Python, SQL, Pandas, NumPy
 - Scikit-learn, PyTorch, PyTorch Lightning
