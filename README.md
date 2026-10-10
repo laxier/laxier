@@ -1,26 +1,31 @@
-# Hi, I’m Kirill Timofeev
+# Кирилл Тимофеев
 
-3rd-year Applied Mathematics & Informatics student at Financial University.  
-Interested in Machine Learning, Data Analysis, NLP, and ML backend development.
+ML-инженер / Data Scientist. Студент 4 курса Финансового университета при Правительстве РФ, направление «Прикладная математика и информатика».
+Занимаюсь машинным обучением, NLP и LLM-агентами, разрабатываю ML-бэкенд.
 
-## Tech Stack
+## Портфолио
+https://laxier.github.io/hanyu/
+https://laxier.github.io/nutrition-tracker/
+
+## Стек
 - Python, SQL, Pandas, NumPy
 - Scikit-learn, PyTorch, PyTorch Lightning
-- OpenCV, Ultralytics YOLO
 - Hugging Face Transformers, NLP, RAG
-- PySpark, PostgreSQL
+- LLM-агенты, MCP, Claude API
+- OpenCV, Ultralytics YOLO
+- PySpark, PostgreSQL, SQLAlchemy
 - FastAPI, Docker, Git, W&B, Jupyter Notebook
 
-## Currently Learning
-- RAG and NLP pipelines
-- Embeddings and retrieval systems
-- Production ML systems
+## Сейчас изучаю
+- RAG и NLP-пайплайны
+- Эмбеддинги и системы поиска (retrieval)
+- Production ML-системы
 
-## Achievements
-- Zhongnan University Summer School (2025): applied statistics and econometrics
-- Conference “System Analysis in Economics – 2024”: research presentation on flu morbidity factors
+## Достижения
+- Летняя школа Zhongnan University (2025): прикладная статистика и эконометрика
+- Конференция «Системный анализ в экономике — 2024»: доклад о факторах заболеваемости гриппом
 
-## Languages
-- Russian — Native
-- English — B2
-- Chinese — HSK 4
+## Языки
+- Русский — родной
+- Английский — B2
+- Китайский — HSK 4
