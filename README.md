@@ -4,10 +4,11 @@ ML-инженер / Data Scientist. Студент 4 курса Финансов
 Занимаюсь машинным обучением, NLP и LLM-агентами, разрабатываю ML-бэкенд.
 
 ## Портфолио
-https://laxier.github.io/hanyu/
-
 https://laxier.github.io/nutrition-tracker/
-
+<br>
+https://laxier.github.io/hanyu/
+<br>
+https://laxier.github.io/zimutai/
 ## Стек
 - Python, SQL, Pandas, NumPy
 - Scikit-learn, PyTorch, PyTorch Lightning
