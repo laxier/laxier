@@ -5,6 +5,7 @@ ML-инженер / Data Scientist. Студент 4 курса Финансов
 
 ## Портфолио
 https://laxier.github.io/hanyu/
+
 https://laxier.github.io/nutrition-tracker/
 
 ## Стек
